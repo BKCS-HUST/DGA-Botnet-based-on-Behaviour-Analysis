@@ -1,0 +1,31 @@
+,f1,recall,precision,accuracy,Name,Family
+LSTM only,83.21%,92.56%,79.64%,87.81%,,All
+LSTM with Rules,98.11%,98.60%,97.63%,98.88%,,All
+2,1,1,1,1,LSTM with Rules,suppobox
+3,0.464550979,0.433795712,0.5,0.867591425,LSTM,suppobox
+4,0.499949541,0.499899092,0.5,0.999798184,LSTM with Rules,murofet_V2
+5,0.499949541,0.499899092,0.5,0.999798184,LSTM,murofet_V2
+6,0.927861798,0.906909789,0.960032963,0.940763359,LSTM with Rules,nymaim
+7,0.918716469,0.895873321,0.955714286,0.933740458,LSTM,nymaim
+8,1,1,1,1,LSTM with Rules,chinad
+9,1,1,1,1,LSTM,chinad
+10,1,1,1,1,LSTM with Rules,banjori
+11,1,1,1,1,LSTM,banjori
+12,1,1,1,1,LSTM with Rules,matsnu
+13,0,0,0,0,LSTM,matsnu
+14,1,1,1,1,LSTM with Rules,symmi
+15,0,0,0,0,LSTM,symmi
+16,1,1,1,1,LSTM with Rules,virut
+17,1,1,1,1,LSTM,virut
+18,1,1,1,1,LSTM with Rules,conficker
+19,1,1,1,1,LSTM,conficker
+20,1,1,1,1,LSTM with Rules,mydoom
+21,1,1,1,1,LSTM,mydoom
+22,1,1,1,1,LSTM with Rules,necurs
+23,1,1,1,1,LSTM,necurs
+24,1,1,1,1,LSTM with Rules,ranbyus
+25,1,1,1,1,LSTM,ranbyus
+26,1,1,1,1,LSTM with Rules,simda
+27,1,1,1,1,LSTM,simda
+28,0.598328389,0.981325864,0.56043956,0.962842545,LSTM with Rules,Normal
+29,0.939649615,0.99929972,0.892857143,0.998606595,LSTM,Normal
